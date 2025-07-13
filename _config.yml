@@ -1,0 +1,49 @@
+# GitHub Pages Configuration
+title: FiveM Tool by Dogma Studio
+description: Official documentation for the FiveM Tool by Dogma Studio - Advanced Blender addon for FiveM content creation
+author: Dogma Studio
+version: 1.0
+
+# Theme settings
+theme: jekyll-theme-cayman
+# Or use a custom theme
+# remote_theme: pages-themes/cayman@v0.2.0
+
+# Site settings
+url: "https://dogmastudio.github.io/toolblender"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Navigation
+show_downloads: false
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "docs"
+    values:
+      layout: "default"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/ 
