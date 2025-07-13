@@ -48,7 +48,7 @@ nav_order: 1
 - **Blender**: 4.0 or higher
 - **OS**: Windows 10, macOS 10.15+, Linux
 - **RAM**: 8GB minimum (16GB recommended)
-- **Internet**: Stable connection for license verification
+- **Internet**: Stable connection 
 
 ## 🔐 Licensing
 

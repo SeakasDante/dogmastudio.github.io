@@ -12,7 +12,7 @@ nav_order: 2
 Before installing the FiveM Tool, ensure you have:
 
 - **Blender 4.0 or higher** installed on your system
-- **Internet connection** for license verification
+- **Internet connection** 
 - **Valid Tebex Transaction ID** (format: tbx-xxxxx)
 
 ## Installation Steps
