@@ -137,9 +137,8 @@ When contacting support, provide:
 
 ### Support Channels
 
-- **Email**: support@dogmastudio.com
-- **GitHub Issues**: [Report Issue](../../issues)
-- **Discord**: Join our community server
+- For support open a ticket on [discord](https://discord.gg/8wGugUcz6n)
+
 
 ## Prevention Tips
 

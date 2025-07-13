@@ -52,7 +52,7 @@ nav_order: 1
 
 ## 🔐 Licensing
 
-Professional license required. Purchase your license on [Tebex](https://tebex.com/dogmastudio).
+Professional license required. Purchase your license on [Tebex](https://www.dogmastudio.cc).
 
 ## 🆘 Support
 

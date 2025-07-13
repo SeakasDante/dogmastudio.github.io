@@ -57,4 +57,4 @@ To verify the installation:
 If you have installation problems:
 
 - Check the [Troubleshooting](troubleshooting.md) page
-- Contact support on [Contact support on discord](https://discord.gg/8wGugUcz6n)
+- Contact support on [discord](https://discord.gg/8wGugUcz6n)
