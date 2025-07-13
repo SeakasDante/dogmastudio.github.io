@@ -4,14 +4,14 @@ description: Official documentation for the FiveM Tool by Dogma Studio - Advance
 author: Dogma Studio
 version: 1.0
 
-# Theme settings
-theme: jekyll-theme-cayman
-# Or use a custom theme
-# remote_theme: pages-themes/cayman@v0.2.0
+# Theme settings - Using a more modern theme
+remote_theme: just-the-docs/just-the-docs
+# Or use a custom theme similar to rcore.cz
+# theme: jekyll-theme-minimal
 
 # Site settings
-url: "https://dogmastudio.github.io/toolblender"
-baseurl: ""
+url: "https://dogmastudio.github.io"
+baseurl: "/toolblender"
 
 # Build settings
 markdown: kramdown
@@ -20,9 +20,41 @@ highlighter: rouge
 # Navigation
 show_downloads: false
 
-# Plugins
-plugins:
-  - jekyll-remote-theme
+# Just the Docs theme configuration
+just_the_docs:
+  # Color scheme supports "light" (default) and "dark"
+  color_scheme: light
+  
+  # Enable or disable the site title
+  title: false
+  
+  # Enable or disable the search header
+  search_enabled: true
+  
+  # Heading anchor links appear on hover over h1-h6 tags
+  heading_anchor_links: true
+  
+  # Back to top link appears before the footer
+  back_to_top: true
+  back_to_top_text: "Back to top"
+  
+  # Footer content appears at the bottom of every page's main content
+  footer_content: "Copyright &copy; 2024 Dogma Studio. Distributed by <a href=\"https://github.com/dogmastudio/toolblender\">GitHub</a>."
+  
+  # Enable or disable the search
+  search:
+    # Split pages into sections that can be searched individually
+    heading_level: 2
+    previews: 3
+    preview_words_before: 5
+    preview_words_after: 10
+    tokenizer_separator: /[\s/\-]+/
+    rel_url: true
+    button: true
+
+# Custom CSS
+head_scripts:
+  - /assets/css/custom.css
 
 # Collections
 collections:
