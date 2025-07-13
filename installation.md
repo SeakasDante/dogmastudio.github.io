@@ -12,7 +12,7 @@ Before installing the FiveM Tool, ensure you have:
 
 ### 1. Download the Tool
 
-1. Go to the [Releases](https://www.dogmastudio.cc/product/6673926) page
+1. Go to the [Tebex](https://www.dogmastudio.cc/product/6931659) page
 2. Download the latest `dogmatool.py` file
 3. Save it to a location you can easily access
 
