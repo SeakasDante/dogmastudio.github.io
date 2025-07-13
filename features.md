@@ -75,8 +75,7 @@ Convert Mixamo rigs to GTA format automatically:
 ### Vehicle Creation
 1. Import vehicle model
 2. Apply **External** colors to body parts
-3. Apply **Internal** colors to interior
-4. Add **Emissive** to lights/neon
+3. Add **Emissive** to lights/neon
 
 ### Character Setup
 1. Import Mixamo character

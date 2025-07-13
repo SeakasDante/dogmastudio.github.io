@@ -64,8 +64,8 @@ Creates optimized vertex color attributes for FiveM:
 
 For specific FiveM use cases:
 
-- **External**: Vehicle exterior parts
-- **Internal**: Vehicle interior parts
+- **External**: red vertex color for exterior mesh
+- **Internal**: default green vertex color for interior mesh
 - **Clothes**: Fabric and clothing materials
 - **Emissive**: Luminous materials and neon effects
 
@@ -107,9 +107,7 @@ Converts Mixamo bone names to GTA format:
 1. Import your vehicle model
 2. Select exterior parts
 3. Use **External** vertex color
-4. Select interior parts
-5. Use **Internal** vertex color
-6. Apply **Emissive** to lights/neon
+4. Apply **Emissive** to lights/neon
 
 ### Example 2: Character Setup
 
