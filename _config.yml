@@ -8,8 +8,8 @@ version: 1.0
 remote_theme: just-the-docs/just-the-docs
 
 # Site settings
-url: "https://dogmastudio.github.io"
-baseurl: ""
+url: "https://seakasdante.github.io"
+baseurl: "/dogmastudio.github.io"
 
 # Build settings
 markdown: kramdown
