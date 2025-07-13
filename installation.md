@@ -12,8 +12,8 @@ Before installing the FiveM Tool, ensure you have:
 
 ### 1. Download the Tool
 
-1. Go to the [Releases](../../releases) page
-2. Download the latest `tool_clean.py` file
+1. Go to the [Releases](https://www.dogmastudio.cc/product/6673926) page
+2. Download the latest `dogmatool.py` file
 3. Save it to a location you can easily access
 
 ### 2. Install in Blender
@@ -22,7 +22,7 @@ Before installing the FiveM Tool, ensure you have:
 2. Go to **Edit > Preferences**
 3. Click on **Add-ons** in the left sidebar
 4. Click **Install** button at the top
-5. Navigate to and select the `tool_clean.py` file
+5. Navigate to and select the `dogmatool.py` file
 6. Click **Install Add-on**
 
 ### 3. Activate the Addon
