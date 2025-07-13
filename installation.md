@@ -57,5 +57,4 @@ To verify the installation:
 If you have installation problems:
 
 - Check the [Troubleshooting](troubleshooting.md) page
-- [Report an Issue](../../issues)
-- Contact support at support@dogmastudio.com 
+- [Contact support at](https://discord.gg/8wGugUcz6n)
