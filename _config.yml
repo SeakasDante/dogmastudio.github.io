@@ -1,24 +1,19 @@
-# GitHub Pages Configuration
+# Site settings
 title: FiveM Tool by Dogma Studio
-description: Official documentation for the FiveM Tool by Dogma Studio - Advanced Blender addon for FiveM content creation
+description: Advanced Blender addon for FiveM content creation
 author: Dogma Studio
 version: 1.0
 
-# Theme settings - Using a more modern theme
+# Theme settings - Using Just the Docs theme
 remote_theme: just-the-docs/just-the-docs
-# Or use a custom theme similar to rcore.cz
-# theme: jekyll-theme-minimal
 
 # Site settings
 url: "https://dogmastudio.github.io"
-baseurl: "/toolblender"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
-
-# Navigation
-show_downloads: false
 
 # Just the Docs theme configuration
 just_the_docs:
