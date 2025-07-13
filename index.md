@@ -56,7 +56,7 @@ Professional license required. Purchase your license on [Tebex](https://www.dogm
 
 ## 🆘 Support
 
-- 📧 **Email**: support@dogmastudio.com
+- 📧 [discord](https://discord.gg/8wGugUcz6n)
 - 🐛 **Issues**: [GitHub Issues](https://github.com/dogmastudio/toolblender/issues)
 - 📚 **Documentation**: This site
 
@@ -64,4 +64,4 @@ Professional license required. Purchase your license on [Tebex](https://www.dogm
 
 **Developed by**: Dogma Studio  
 **Version**: 1.0  
-**Last Updated**: 2024 
+**Last Updated**: 2025 
