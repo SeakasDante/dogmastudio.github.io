@@ -9,7 +9,7 @@ remote_theme: just-the-docs/just-the-docs
 
 # Site settings
 url: "https://seakasdante.github.io"
-baseurl: "/dogmastudio.github.io"
+baseurl: "/dogmatool"
 
 # Build settings
 markdown: kramdown
