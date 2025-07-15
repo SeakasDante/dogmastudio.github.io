@@ -12,7 +12,7 @@ nav_order: 1
     <p>Professional tools for vertex color optimization, bone renaming, and FiveM content creation</p>
     <div class="hero-buttons">
       <a href="getting-started/installation" class="btn btn-primary">Get Started</a>
-      <a href="features/overview" class="btn btn-secondary">View Features</a>
+      <a href="features" class="btn btn-secondary">View Features</a>
     </div>
   </div>
 </div>

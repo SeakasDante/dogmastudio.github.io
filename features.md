@@ -17,7 +17,7 @@ By default, the colors used are the same as those from the terrain shader, ensur
 
 When applying vertex colors, the plugin creates a color attribute named **Color 2** on the selected objects.
 
-![Vertex Color UI](../assets/img/vertex_color_ui.png)
+![Vertex Color UI](../assets/css/img/vertex_color_ui.png)
 
 ### Smart Vertex Color
 
@@ -29,7 +29,7 @@ Clicking on "Smart Vertex Color" opens an advanced window where you can:
 
 This function automates the assignment of vertex colors based on geometric criteria, making it easier to color complex meshes.
 
-![Smart Vertex Color UI](../assets/img/smart_vertex_color_ui.png)
+![Smart Vertex Color UI](../assets/css/img/smart_vertex_color_ui.png)
 
 ## Bone Tools
 
@@ -41,7 +41,7 @@ The **Bone Tools** feature allows you to easily rename bones in an armature to m
 
 This tool streamlines the process of retargeting animations or preparing models for different platforms by ensuring bone names are compatible.
 
-![Bone Tools UI](../assets/img/bone_tools_ui.png)
+![Bone Tools UI](../assets/css/img/bone_tools_ui.png)
 
 ## Utility
 
@@ -61,7 +61,7 @@ This section allows you to merge multiple meshes based on their diffuse color:
 
 Click **Merge Mesh** to combine the selected meshes according to the chosen settings.
 
-![Utility UI](../assets/img/utility_ui.png)
+![Utility UI](../assets/css/img/utility_ui.png)
 
 ## Normal Map
 
@@ -72,7 +72,7 @@ The **Normal Map** panel allows you to generate a normal map for your selected m
 
 This tool simplifies the process of adding surface detail and enhancing the appearance of your models by generating normal maps with customizable strength.
 
-![Normal Map UI](../assets/img/normal_map_ui.png)
+![Normal Map UI](../assets/css/img/normal_map_ui.png)
 
 ## Vertex Placer
 
@@ -101,4 +101,4 @@ A temporary color attribute must be created for placement. Instances will not be
 
 This tool is ideal for quickly populating environments with objects such as rocks, plants, or props, ensuring natural distribution and variation.
 
-![Vertex Placer UI](../assets/img/vertex_placer_ui.png) 
+![Vertex Placer UI](../assets/css/img/vertex_placer_ui.png) 
