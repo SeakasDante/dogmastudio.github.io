@@ -6,16 +6,11 @@ nav_order: 1
 
 # FiveM Tool by Dogma Studio
 
-<div class="hero">
-  <div class="hero-content">
-    <h1>Advanced Blender Addon for FiveM</h1>
-    <p>Professional tools for vertex color optimization, bone renaming, and FiveM content creation</p>
-    <div class="hero-buttons">
-      <a href="getting-started/installation" class="btn btn-primary">Get Started</a>
-      <a href="features" class="btn btn-secondary">View Features</a>
-    </div>
-  </div>
-</div>
+## Advanced Blender Addon for FiveM
+
+Professional tools for vertex color optimization, bone renaming, and FiveM content creation.
+
+---
 
 ## 🚀 Quick Start
 
@@ -24,31 +19,48 @@ nav_order: 1
 3. **Activate** your license
 4. **Start creating** FiveM content!
 
-[Get Started →](getting-started/installation){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2}
+[View Features](features.md)
+
+---
 
 ## ✨ Key Features
 
 ### 🎨 Vertex Color Tools
-- Smart vertex color creation optimized for FiveM
-- Preset configurations (Rock, Dirt, Mountain, Wall)
-- Specialized attributes (External, Internal, Clothes, Emissive)
+- Quickly manage vertex colors on selected objects
+- Smart vertex color creation with presets (Rock, Dirt, Mountain, Wall, Island)
+- Specialized attributes: External, Internal, Clothes, Emissive
+- Compatible with terrain shader colors (creates Color 2 attribute)
+- Automated assignment based on mesh geometry
 
-### 🦴 Bone Management
+### 🦴 Bone Tools
 - Mixamo to GTA bone conversion
-- Automatic bone renaming
-- Professional rigging tools
+
 
 ### 🛠️ Utility Tools
-- UV Map management
-- Object renaming utilities
-- Batch processing capabilities
+- Rename UV maps for all objects to GTA default (UVMap 0)
+- Batch rename selected objects
+- Weight assignment by name for bones/vertex groups
+- Merge meshes by diffuse color with duplicate vertex cleaning
+
+### 🗺️ Normal Map
+- Generate normal maps directly in Blender
+- Adjustable strength for custom surface detail
+
+### 🪄 Vertex Placer
+- Scatter and place mesh instances on a target object
+- Placement control via temporary color attribute (ignores black areas)
+- Customizable number, distance, and transform (random rotation/scale)
+- Ideal for populating environments with props, rocks, plants, etc.
+
+---
 
 ## 📋 System Requirements
-
 - **Blender**: 4.0 or higher
 - **OS**: Windows 10, macOS 10.15+, Linux
 - **RAM**: 8GB minimum (16GB recommended)
-- **Internet**: Stable connection 
+- **Internet**: Stable connection
+
+---
 
 ## 🔐 Licensing
 
