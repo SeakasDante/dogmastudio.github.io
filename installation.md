@@ -36,7 +36,7 @@ Before installing the FiveM Tool, ensure you have:
 1. In the 3D View, open the sidebar (press `N` if not visible)
 2. Look for the **"FiveM Tool by Dogma Studio"** tab
 3. Click **"Activate License"**
-4. Enter your Tebex Transaction ID
+4. Enter your Tebex Subscription ID (format: tbx-r-xxxxx)
 5. Click **"Verify License"**
 
 ## Verification
