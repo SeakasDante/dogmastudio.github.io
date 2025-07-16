@@ -6,7 +6,7 @@ Before installing the FiveM Tool, ensure you have:
 
 - **Blender 4.0 or higher** installed on your system
 - **Internet connection** 
-- **Valid Tebex Transaction ID** (format: tbx-xxxxx)
+- **Valid Tebex Subscription ID** (format: tbx-r-xxxxx) 
 
 ## Installation Steps
 
@@ -49,12 +49,12 @@ To verify the installation:
 
 ## Next Steps
 
-- Read the [User Guide](user-guide.md) to learn how to use the tool
-- Check the [Troubleshooting](troubleshooting.md) if you encounter issues
+- Check the [Features](features.md) page to learn about all available tools
+- Visit our [Discord](https://discord.gg/8wGugUcz6n) for support and community
 
 ## Support
 
 If you have installation problems:
 
-- Check the [Troubleshooting](troubleshooting.md) page
 - Contact support on [discord](https://discord.gg/8wGugUcz6n)
+- Check the [GitHub Issues](https://github.com/dogmastudio/toolblender/issues) page
